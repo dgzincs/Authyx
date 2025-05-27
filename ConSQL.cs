@@ -1,11 +1,12 @@
 ﻿using System.Data.SQLite;
+using System.Data.SqlClient;
 
 namespace Projeto_PROGVIII
 {
     internal class ConSQL
     {
-        private string caminhoBanco = @"Data Source= C:\Users\Douglas\Desktop\Projeto PROGVIII\DB\Clientes.db;Version=3;";
-        public string query;
+        private string caminhoArquivo = Path.Combine(Application.StartupPath, "DB", "Clientes.db");
+        private string caminhoBanco => $"Data Source={caminhoArquivo};Version=3;";
 
         public void TestarConexao()
         {
@@ -13,6 +14,11 @@ namespace Projeto_PROGVIII
             {
                 try
                 {
+                    if (!File.Exists(caminhoArquivo))
+                    {
+                        Directory.CreateDirectory(Path.Combine(Application.StartupPath, "DB"));
+                        SQLiteConnection.CreateFile(caminhoArquivo);
+                    }
                     conn.Open();
                     conn.Close();
                 }
@@ -25,7 +31,9 @@ namespace Projeto_PROGVIII
 
         public void RegistrarCliente(string nome, string cpf, string email, string password)
         {
-            using (SQLiteConnection conn = new SQLiteConnection(caminhoBanco))
+            this.TestarConexao();
+
+            using (SQLiteConnection conn = new SQLiteConnection(this.caminhoBanco))
             {
                 try
                 {
@@ -83,6 +91,7 @@ namespace Projeto_PROGVIII
         {
             using (SQLiteConnection conn = new SQLiteConnection(caminhoBanco))
             {
+                this.TestarConexao();
                 try
                 {
                     conn.Open();

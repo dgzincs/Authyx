@@ -41,6 +41,7 @@ namespace Projeto_PROGVIII
             materialLabel3 = new MaterialSkin.Controls.MaterialLabel();
             materialLabel4 = new MaterialSkin.Controls.MaterialLabel();
             materialLabel5 = new MaterialSkin.Controls.MaterialLabel();
+            materialLabel6 = new MaterialSkin.Controls.MaterialLabel();
             SuspendLayout();
             // 
             // materialButton2
@@ -267,11 +268,27 @@ namespace Projeto_PROGVIII
             materialLabel5.TabIndex = 12;
             materialLabel5.Text = "Confirme sua senha";
             // 
+            // materialLabel6
+            // 
+            materialLabel6.AutoSize = true;
+            materialLabel6.Cursor = Cursors.Hand;
+            materialLabel6.Depth = 0;
+            materialLabel6.FlatStyle = FlatStyle.Flat;
+            materialLabel6.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            materialLabel6.Location = new Point(218, 428);
+            materialLabel6.MouseState = MaterialSkin.MouseState.HOVER;
+            materialLabel6.Name = "materialLabel6";
+            materialLabel6.Size = new Size(158, 19);
+            materialLabel6.TabIndex = 13;
+            materialLabel6.Text = "Já possui uma conta?";
+            materialLabel6.Click += materialLabel6_Click;
+            // 
             // Register
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(600, 450);
+            Controls.Add(materialLabel6);
             Controls.Add(materialLabel5);
             Controls.Add(materialLabel4);
             Controls.Add(materialLabel3);
@@ -306,5 +323,6 @@ namespace Projeto_PROGVIII
         private MaterialSkin.Controls.MaterialLabel materialLabel3;
         private MaterialSkin.Controls.MaterialLabel materialLabel4;
         private MaterialSkin.Controls.MaterialLabel materialLabel5;
+        private MaterialSkin.Controls.MaterialLabel materialLabel6;
     }
 }
