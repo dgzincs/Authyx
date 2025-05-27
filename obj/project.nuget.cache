@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEz9a0DJs8k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Projeto PROGVIII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "O pacote 'MaterialSkin 0.2.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "projectPath": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Projeto PROGVIII.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Projeto PROGVIII.csproj",
+      "libraryId": "MaterialSkin",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\Projeto PROGVIII.exe
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\Projeto PROGVIII.deps.json
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\Projeto PROGVIII.runtimeconfig.json
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\Projeto PROGVIII.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\Projeto PROGVIII.pdb
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto_PROGVIII.Login.resources
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto_PROGVIII.Properties.Resources.resources
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto_PROGVIII.Register.resources
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.csproj.GenerateResource.cache
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto .D7CE24BD.Up2Date
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\refint\Projeto PROGVIII.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.pdb
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\Projeto PROGVIII.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\obj\Debug\net8.0-windows\ref\Projeto PROGVIII.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Douglas\Desktop\Projeto PROGVIII\Projeto PROGVIII\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll

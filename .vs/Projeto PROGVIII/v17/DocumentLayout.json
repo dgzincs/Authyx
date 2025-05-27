@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|c:\\users\\douglas\\desktop\\projeto progviii\\projeto progviii\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|c:\\users\\douglas\\desktop\\projeto progviii\\projeto progviii\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|c:\\users\\douglas\\desktop\\projeto progviii\\projeto progviii\\projeto progviii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|solutionrelative:projeto progviii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|c:\\users\\douglas\\desktop\\projeto progviii\\projeto progviii\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|c:\\users\\douglas\\desktop\\projeto progviii\\projeto progviii\\consql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|solutionrelative:consql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|c:\\users\\douglas\\desktop\\projeto progviii\\projeto progviii\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E4E770-69D7-47AC-9F7D-900533BCB540}|Projeto PROGVIII.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:39:53.974Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:32:11.562Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:23:57.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Login.cs [Projeto]",
+              "RelativeToolTip": "Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:55:56.109Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\ConSQL.cs",
+              "RelativeDocumentMoniker": "ConSQL.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\ConSQL.cs",
+              "RelativeToolTip": "ConSQL.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:58:32.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAMMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:07:48.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projeto PROGVIII.csproj",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Projeto PROGVIII.csproj",
+              "RelativeDocumentMoniker": "Projeto PROGVIII.csproj",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Projeto PROGVIII.csproj",
+              "RelativeToolTip": "Projeto PROGVIII.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T02:46:33.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\Projeto PROGVIII\\Projeto PROGVIII\\Register.cs [Projeto]",
+              "RelativeToolTip": "Register.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:12:15.476Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
